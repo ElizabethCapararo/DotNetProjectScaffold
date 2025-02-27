@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Oz532w5hA20=",
+  "dgSpecHash": "CiXAcmAzu/4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Liz\\source\\repos\\PredictiveCalendar\\DotNetProjectScaffold\\DotNetProjectScaffold.csproj",
+  "projectFilePath": "C:\\Users\\Liz\\source\\repos\\DotNetProjectScaffold\\DotNetProjectScaffold.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Liz\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512",
     "C:\\Users\\Liz\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.2\\microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
